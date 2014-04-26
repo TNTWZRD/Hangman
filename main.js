@@ -21,6 +21,7 @@ Main.SetUnderline = function(){
 	}
 	Main.WordU = Main.WordUArray.join("");
 	document.getElementById("word").innerHTML = Main.WordU;
+	document.getElementById("Letters").innerHTML = Main.Word.length;
 }
 
 Main.UpdateLetter = function(letter){

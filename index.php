@@ -12,7 +12,8 @@ Hangman
 Small Hangman Game Made By Daniel Jajliardo, &copy; 2014 <a href="http://www.chessmenink.tk"> Chessmenink </a>
 </div><br>
 <div id="hangman">
-Lives: <b id="lives"> 4 </b>
+Lives: <b id="lives"> 4 </b><br>
+<b id="Letters"> 0 </b> Letters in the word.
 </div>
 <br>
 <div>
