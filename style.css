@@ -1,0 +1,42 @@
+body{
+	text-align:center;
+	color: white;
+	background-color: black;
+}
+
+#Header{
+	background-color: grey;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+#word{
+	color: red;
+	text-decoration: underline;	
+}
+
+#letters{
+	width: 25%;
+	background-color: grey;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#letters a{
+	color: green;
+	text-decoration: none;
+	padding: 3px;
+}
+
+#letters a:hover{
+	color: Yellow;
+	text-decoration: none;
+	background-color: silver;
+	padding: 3px;
+	border-radius: 3px;
+}
