@@ -17,7 +17,6 @@ body{
 }
 
 #letters{
-	width: 25%;
 	background-color: grey;
 	margin: 5px;
 	padding: 5px;
@@ -40,3 +39,5 @@ body{
 	padding: 3px;
 	border-radius: 3px;
 }
+
+@media (min-width: 1024px){#letters{width: 25%;}}

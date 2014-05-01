@@ -3,7 +3,7 @@ Main.WordArray = [];
 Main.WordUArray = [];
 Main.Lives = 4;
 
-Main.NumberInWordbank = 20; // including zero
+Main.NumberInWordbank = 40; // including zero
 
 Main.Word = "chease"; //testing only
 
