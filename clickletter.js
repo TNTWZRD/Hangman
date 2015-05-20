@@ -1,12 +1,3 @@
-$(document).ready(function() 
-{ 
-    $('#QRcode').qrcode(
-        {
-    	    text : 'MECARD:N:Daniel,Jajliardo;TEL:(860)-821-0028;EMAIL:danieljajliardo@gmail.com;BDAY:02/23/96;URL:www.chessmenink.tk;NICKNAME:TNTWZRD;'
-        }
-    ); 
-});
-
 $(function(){
 	$("#a").click(function(event) {
 			event.preventDefault();
